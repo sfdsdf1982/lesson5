@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "title": "VipCar",
+  "cars": [
+    {
+      "name": "Audi",
+      "price": 1000
+    },
+    {
+      "name": "BMW",
+      "price": 1200
+    },
+    {
+      "name": "VW",
+      "price": 900
+    }
+  ],
+  "contacts": {
+    "phone": "+79117777777",
+    "address": "Moscow..."
+  }
+}
